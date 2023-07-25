@@ -25,3 +25,8 @@ body{
 	clear: both;
 	border: 15px solid red;
 }
+
+#review_announcer{
+	background-color: rgb(190, 190, 210);
+	color: rgb(255, 60, 60);
+}
