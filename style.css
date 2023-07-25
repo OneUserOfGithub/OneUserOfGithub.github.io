@@ -1,0 +1,23 @@
+body{
+	background-color: rgb(255, 255, 255);
+	color: rgb(225, 60, 60);
+	padding: 10px;
+}
+
+#titulus {
+	background-color: rgb(190, 190, 210)
+}
+
+#pic {
+	float: left;
+}
+
+#description {
+	padding: 110px;
+	font-size: 32px;
+	text-align: center;
+}
+
+#reviews {
+	clear: both;
+}
