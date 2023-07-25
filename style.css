@@ -23,4 +23,5 @@ body{
 
 #reviews{
 	clear: both;
+	border: 15px solid red;
 }
