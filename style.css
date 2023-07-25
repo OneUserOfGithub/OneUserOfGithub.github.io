@@ -15,8 +15,9 @@ body{
 
 #description{
 	font-size: 32px;
-	width: 1000px;
-	height: 300px;
+	width: 1500px;
+	height: 100px;
+	padding: 100px;
 	text-align: center;
 }
 
